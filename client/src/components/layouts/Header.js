@@ -31,7 +31,7 @@ const Header = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/signin">
+              <Link className="nav-link" to="/signup">
                 Profile <span className="sr-only"></span>
               </Link>
             </li>
